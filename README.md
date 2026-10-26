@@ -4,7 +4,7 @@ Personal [Agent Skills](https://docs.claude.com/en/docs/claude-code/skills) for 
 
 | Skill | What it does |
 |---|---|
-| [english-vault](english-vault/SKILL.md) | Explains English words and phrases and saves them as linked notes in an Obsidian vocabulary vault on Google Drive. Also builds reviews such as quizzes, flash cards and stories. |
+| [english-vault](english-vault/SKILL.md) | Explains English words and phrases and saves them as linked notes in an Obsidian vocabulary vault, read from a local copy when one is found or from Google Drive otherwise. Also builds reviews such as quizzes, flash cards and stories. |
 | [gmail-inbox-review](gmail-inbox-review/SKILL.md) | Goes through the Gmail inbox thread by thread: labels, trashes noise, flags follow-ups, drafts replies and writes a report. |
 
 ## Layout
